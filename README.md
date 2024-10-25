@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on authentification for the nc-news website and contributing to an open-source project called Kindly
+- 🔭 I’m currently working on authentification for the nc-news website and an open-source project called Kindly
 - 🌱 I’m currently learning Next.js
 - 👯 I’m looking to collaborate on Chingu project 
 - 🤔 I’m looking for help with building the backend for user authentification
