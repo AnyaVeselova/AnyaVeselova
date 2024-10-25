@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  <img src="/Leonardo_Phoenix_Create_a_character_taking_my_face_as_a_refere_2.jpg" alt="AI-generated profile picture" style="display: block; margin: 0 auto;" width="200" height="200";/>
+  <img src="/Leonardo_Phoenix_Create_a_character_taking_my_face_as_a_refere_2.jpg" alt="AI-generated profile picture" style="display: block; margin: 0 auto;" width="200" height="200"/>
 
 
 - 🔭 I’m currently working on authentification for the nc-news website and an open-source project called Kindly
