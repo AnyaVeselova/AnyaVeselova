@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+<div style="text-align: center;">
 <img src="/Leonardo_Phoenix_Create_a_character_taking_my_face_as_a_refere_2.jpg" alt="AI-generated profile picture" style="width:200px;"/>
+</div>
 
 - 🔭 I’m currently working on authentification for the nc-news website and an open-source project called Kindly
 - 🌱 I’m currently learning Next.js
