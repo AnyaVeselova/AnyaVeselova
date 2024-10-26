@@ -7,11 +7,18 @@
 </div>
 
 
-- 🔭 I’m currently working on authentification for the nc-news website and an open-source project called Kindly
-- 🌱 I’m currently learning Next.js
-- 👯 I’m looking to collaborate on Chingu project 
-- 🤔 I’m looking for help with building the backend for user authentification
-- 💬 Ask me about anything
+- 🛠️ Currently working on authentication for the nc-news website and contributing to the Kindly open-source project (never a dull moment in coding!)
+
+- 🌱 Learning Next.js and expanding my skills with every new framework.
+
+- 🤝 Looking for collaborators on the Chingu project—teamwork makes the dream work!
+
+- 🧩 Seeking guidance on backend development for user authentication. Any tips? Let’s connect!
+
+- 💬 Feel free to ask me anything—I'm always open to chat.
+  
 - 📫 How to reach me: [my-linkedin](https://www.linkedin.com/in/anna-veselova-3640752a0/)
-- 😄 Pronouns: she/her 
+  
+- 😄 Pronouns: she/her
+  
 - ⚡ Fun fact: I can interrupt even the most intense conversation with, "Oooh, look at that dog!" like it’s an emergency. Because honestly, it is.
