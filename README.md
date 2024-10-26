@@ -1,10 +1,10 @@
 ## Hi there 👋
 
  
-<p align="center">
+<div align="center">
   <img src="/Leonardo_Phoenix_Create_a_character_taking_my_face_as_a_refere_2.jpg" alt="AI-generated profile picture" width="400" height="400"/>
-  <p>(Animated as an Inside Out character)</p>
-</p>
+  <p>(Me, animated as an Inside Out character)</p>
+</div>
 
 
 - 🔭 I’m currently working on authentification for the nc-news website and an open-source project called Kindly
