@@ -3,7 +3,7 @@
  
 <div align="center">
   <img src="/Leonardo_Phoenix_Create_a_character_taking_my_face_as_a_refere_2.jpg" alt="AI-generated profile picture" width="400" height="400"/>
-  <p>(Me, animated as an Inside Out character)</p>
+  <p>(Yep, that's me—now animated as an "Inside Out" character, thanks to the magic of AI!)</p>
 </div>
 
 
