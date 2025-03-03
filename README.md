@@ -1,11 +1,8 @@
 ## Hi there 👋
 
+Linguist by training and a language tutor, I embraced a new challenge by transitioning to software development. I discovered that the structure and grammar of language were what I loved most about teaching. Coding became my bridge, merging my passion for learning with my fascination for language’s logic. After completing the Scrimba Front-End Career Path and Northcoders full-stack bootcamp, I now contribute to the open-source project Kindly and continue expanding my skills with Founders and Coders, focusing on the latest technologies in a team of 11 talented individuals. Open to relocation, I’m eager to join a team where I can build, grow, and solve meaningful problems.
  
-<div align="center">
-  <img src="/Leonardo_Phoenix_Create_a_character_taking_my_face_as_a_refere_2.jpg" alt="AI-generated profile picture" width="400" height="400"/>
-  <p>(Yep, that's me—now animated as an "Inside Out" character, thanks to the magic of AI!)</p>
-</div>
-<br/>
+
 
 - 🛠️ Currently working on authentication for the nc-news website and contributing to the Kindly open-source project (never a dull moment in coding!)
 
