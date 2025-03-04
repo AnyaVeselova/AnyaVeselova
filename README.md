@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-I am a full-stack software engineer with a background in linguistics and language tutoring. My fascination with language’s structure and logic naturally led me to coding, where I discovered the same patterns and problem-solving elements. After completing the Scrimba Front-End Career Path and Northcoders full-stack bootcamp, I now work on the open-source project Kindly and continue developing my skills with Founders and Coders, collaborating with a team on the latest technologies.
+  I am a full-stack software engineer with a background in linguistics and language tutoring. My fascination with language’s structure and logic naturally led me to coding, where I discovered the same patterns and problem-solving elements. After completing the Scrimba Front-End Career Path and Northcoders full-stack bootcamp, I now work on the open-source project Kindly and continue developing my skills with Founders and Coders, collaborating with a team on the latest technologies.
+
 
 - 🛠️ Currently working on authentication for the nc-news website and contributing to the Kindly open-source project (never a dull moment in coding!)
 
 - 🌱 Learning Next.js and expanding my skills with every new framework.
-
-- 🤝 Looking for collaborators on the Chingu project—teamwork makes the dream work!
-
-- 🧩 Seeking guidance on backend development for user authentication. Any tips? Let’s connect!
 
 - 💬 Feel free to ask me anything—I'm always open to chat.
   
