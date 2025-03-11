@@ -19,4 +19,4 @@
 
 My stats:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnyaVeselova&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaVeselova)](https://github.com/AnnaVeselova/github-readme-stats)
