@@ -14,3 +14,9 @@
 - 😄 Pronouns: she/her
   
 - ⚡ Fun fact: I can interrupt even the most intense conversation with, "Oooh, look at that dog!" like it’s an emergency. Because honestly, it is.
+
+
+
+My stats:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnyaVeselova&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
