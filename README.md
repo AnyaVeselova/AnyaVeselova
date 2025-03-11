@@ -15,8 +15,3 @@
   
 - ⚡ Fun fact: I can interrupt even the most intense conversation with, "Oooh, look at that dog!" like it’s an emergency. Because honestly, it is.
 
-
-
-My stats:
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaVeselova)](https://github.com/anuraghazra/github-readme-stats)
